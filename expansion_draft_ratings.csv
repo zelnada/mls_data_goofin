@@ -1,0 +1,258 @@
+"name","team","first_name","last_name","player_name","age","pos","overall","potential","potential_remaining"
+"Lemoine, Nico","Houston","Nico","Lemoine","Nico Lemoine",21,"RMRW",54,69,15
+"Gaines, Julian","LAFC","Julian","Gaines","Julian Gaines",19,"RB",53,68,15
+"Traore, Mohamed","LAFC","Mohamed","Traore","Mohamed Traore",19,"CB",54,68,14
+"Acosta, George","Miami","George","Acosta","George Acosta",21,"CAM",57,71,14
+"Thorkelsson, Robert","Montreal","Robert","Thorkelsson","Robert Thorkelsson",19,"CBLB",58,71,13
+"Bajamich, Mateo","Houston","Mateo","Bajamich","Mateo Bajamich",22,"RWSTCAM",63,75,12
+"Vargas, Freddy","Dallas","Freddy","Vargas","Freddy Vargas",22,"LMRM",68,78,10
+"Rosales, Joseph","Minnesota","Joseph","Rosales","Joseph Rosales",21,"RMCM",60,70,10
+"Bonilla, Pablo","Portland","Pablo","Bonilla","Pablo Bonilla",22,"RB",62,72,10
+"Stanley, Aedan","Austin","Aedan","Stanley","Aedan Stanley",22,"LB",57,66,9
+"DeShields, Michael","DC United","Michael","DeShields","Michael DeShields",23,"CB",55,64,9
+"Ginella, Francisco","LAFC","Francisco","Ginella","Francisco Ginella",22,"CM",61,70,9
+"Kizza, Edward","New England","Edward","Kizza","Edward Kizza",22,"ST",59,68,9
+"Amundsen, Malte","NYCFC","Malte","Amundsen","Malte Amundsen",23,"LB",63,72,9
+"Perez, Manny","Portland","Manny","Perez","Manny Perez",22,"STRM",60,69,9
+"Powder, Noah","Real Salt Lake","Noah","Powder","Noah Powder",23,"LBCDM",62,71,9
+"Cissoko, Abdoulaye","Seattle","Abdoulaye","Cissoko","Abdoulaye Cissoko",21,"CB",58,67,9
+"Silva, Kevin","Toronto","Kevin","Silva","Kevin Silva",23,"GK",54,63,9
+"Walkes, Anton","Atlanta","Anton","Walkes","Anton Walkes",24,"CBRB",66,74,8
+"Flanagan, Avionne","Cincinnati","Avionne","Flanagan","Avionne Flanagan",22,"LBLM",56,64,8
+"Quezada, Alvaro","LAFC","Alvaro","Quezada","Alvaro Quezada",22,"RW",54,62,8
+"Tabla, Ballou","Montreal","Ballou","Tabla","Ballou Tabla",22,"LMRMCAM",62,70,8
+"Kelly, Jeremy","Colorado","Jeremy","Kelly","Jeremy Kelly",24,"RB",55,62,7
+"Fuenmayor, Alejandro","Houston","Alejandro","Fuenmayor","Alejandro Fuenmayor",25,"CB",65,72,7
+"Crisostomo, Daniel","LAFC","Daniel","Crisostomo","Daniel Crisostomo",24,"CMCDM",57,64,7
+"Jennings, Caleb","LAFC","Caleb","Jennings","Caleb Jennings",24,"ST",56,63,7
+"McMaster, Justin","Minnesota","Justin","McMaster","Justin McMaster",22,"RW",59,66,7
+"Breza, Sebastian","Montreal","Sebastian","Breza","Sebastian Breza",23,"GK",58,65,7
+"Verfurth, Collin","New England","Collin","Verfurth","Collin Verfurth",25,"CB",61,68,7
+"Latinovich, Vuk","NYCFC","Vuk","Latinovich","Vuk Latinovich",24,"CB",55,62,7
+"Thomas, Andrew","Seattle","Andrew","Thomas","Andrew Thomas",23,"GK",56,63,7
+"Bauer, Joshua","Atlanta","Joshua","Bauer","Joshua Bauer",23,"CBRB",59,65,6
+"Kleemann, Freddy","Austin","Freddy","Kleemann","Freddy Kleemann",22,"CB",57,63,6
+"Pulisic, William","Austin","William","Pulisic","William Pulisic",23,"GK",53,59,6
+"Kizza, Mustafa","Montreal","Mustafa","Kizza","Mustafa Kizza",22,"LWBLBLM",62,68,6
+"Caicedo, Luis","New England","Luis","Caicedo","Luis Caicedo",25,"CDMCM",67,73,6
+"Medina, Jesus","NYCFC","Jesus","Medina","Jesus Medina",24,"RMCAMRW",70,76,6
+"Adams, Mo","Atlanta","Mo","Adams","Mo Adams",25,"CDMCM",66,71,5
+"Lundgaard, Ben","Atlanta","Ben","Lundgaard","Ben Lundgaard",26,"GK",61,66,5
+"Cruz, Allan","Cincinnati","Allan","Cruz","Allan Cruz",25,"CMCDM",64,69,5
+"Nelson, Michael","Houston","Michael","Nelson","Michael Nelson",26,"GK",56,61,5
+"Smith, Graham","Kansas City","Graham","Smith","Graham Smith",26,"CB",64,69,5
+"Blackmon, Tristan","LAFC","Tristan","Blackmon","Tristan Blackmon",25,"RBCB",68,73,5
+"Castanheira, Dylan","Miami","Dylan","Castanheira","Dylan Castanheira",26,"GK",56,61,5
+"Guediri, Sami","Miami","Sami","Guediri","Sami Guediri",24,"LB",57,62,5
+"Taylor, D.J.","Minnesota","D.J.","Taylor","D.J. Taylor",24,"RBLB",59,64,5
+"Maciel, Emanuel","Montreal","Emanuel","Maciel","Emanuel Maciel",24,"CDMCM",64,69,5
+"Kaptoum, Wilfrid","New England","Wilfrid","Kaptoum","Wilfrid Kaptoum",25,"CMCDM",66,71,5
+"Torres, Juan Pablo","NYCFC","Juan Pablo","Torres","Juan Pablo Torres",24,"CFRM",69,74,5
+"Owusu, Leonard","Vancouver","Leonard","Owusu","Leonard Owusu",24,"CDMCMRM",64,69,5
+"Dick, Eric","Columbus","Eric","Dick","Eric Dick",27,"GK",58,62,4
+"Morton, Kyle","Houston","Kyle","Morton","Kyle Morton",27,"GK",55,59,4
+"Findlay, Stuart","Philadelphia","Stuart","Findlay","Stuart Findlay",26,"CB",68,72,4
+"Bikel, Janio","Vancouver","Janio","Bikel","Janio Bikel",26,"CDMCM",69,73,4
+"Hyndman, Emerson","Atlanta","Emerson","Hyndman","Emerson Hyndman",25,"CM",67,70,3
+"Mulraney, Jake","Atlanta","Jake","Mulraney","Jake Mulraney",25,"LMLWB",67,70,3
+"Gallagher, Jon","Austin","Jon","Gallagher","Jon Gallagher",25,"LMST",63,66,3
+"Stroud, Jared","Austin","Jared","Stroud","Jared Stroud",25,"RMLMCAM",61,64,3
+"Skundrich, Drew","DC United","Drew","Skundrich","Drew Skundrich",26,"CM",53,56,3
+"Musovski, Danny","LAFC","Danny","Musovski","Danny Musovski",26,"STLW",60,63,3
+"Putna, Andrew","Real Salt Lake","Andrew","Putna","Andrew Putna",27,"GK",61,64,3
+"Cleveland, Stefan","Seattle","Stefan","Cleveland","Stefan Cleveland",27,"GK",62,65,3
+"Tarbell, Andrew","Austin","Andrew","Tarbell","Andrew Tarbell",28,"GK",63,65,2
+"Lillard, Grant","Columbus","Grant","Lillard","Grant Lillard",26,"CB",62,64,2
+"Datkovic, Toni","Real Salt Lake","Toni","Datkovic","Toni Datkovic",28,"CBLB",64,66,2
+"Godinho, Marcus","Vancouver","Marcus","Godinho","Marcus Godinho",24,"RBRWBCB",62,64,2
+"Stanko, Caleb","Cincinnati","Caleb","Stanko","Caleb Stanko",28,"CDMCM",63,64,1
+"Hairston, Marlon","Columbus","Marlon","Hairston","Marlon Hairston",27,"CDMRBRM",66,67,1
+"Kempin, Jon","DC United","Jon","Kempin","Jon Kempin",28,"GK",62,63,1
+"Moreno, Junior","DC United","Junior","Moreno","Junior Moreno",28,"CDMCM",71,72,1
+"Edwards, Raheem","LAFC","Raheem","Edwards","Raheem Edwards",26,"LMRM",64,65,1
+"Ibeagha, Sebastien","LAFC","Sebastien","Ibeagha","Sebastien Ibeagha",29,"CB",64,65,1
+"Alvarado, Ventura","Miami","Ventura","Alvarado","Ventura Alvarado",29,"CBRB",69,70,1
+"McCarthy, John","Miami","John","McCarthy","John McCarthy",29,"GK",64,65,1
+"Mizell, Cody","NYCFC","Cody","Mizell","Cody Mizell",30,"GK",56,57,1
+"Powell, Alvas","Philadelphia","Alvas","Powell","Alvas Powell",27,"RB",65,66,1
+"Delem, Jordy","Seattle","Jordy","Delem","Jordy Delem",28,"CDMRB",64,65,1
+"Richey, Spencer","Seattle","Spencer","Richey","Spencer Richey",29,"GK",65,66,1
+"Smith, Brad","Seattle","Brad","Smith","Brad Smith",27,"LWBLBLM",67,68,1
+"Godoy, Erik","Vancouver","Erik","Godoy","Erik Godoy",28,"CB",68,69,1
+"Ambrose, Mikey","Atlanta","Mikey","Ambrose","Mikey Ambrose",28,"LBRB",64,64,0
+"Damm, Jurgen","Atlanta","Jurgen","Damm","Jurgen Damm",29,"RM",71,71,0
+"Kann, Alec","Atlanta","Alec","Kann","Alec Kann",31,"GK",66,66,0
+"Hoesen, Danny","Austin","Danny","Hoesen","Danny Hoesen",30,"ST",66,66,0
+"Jimenez, Hector","Austin","Hector","Jimenez","Hector Jimenez",33,"RBLB",66,66,0
+"Manneh, Kekuta","Austin","Kekuta","Manneh","Kekuta Manneh",26,"LMST",64,64,0
+"Schoenfeld, Aaron","Austin","Aaron","Schoenfeld","Aaron Schoenfeld",31,"ST",62,62,0
+"Segura, Ulises","Austin","Ulises","Segura","Ulises Segura",28,"RMLMCM",66,66,0
+"Sweat, Ben","Austin","Ben","Sweat","Ben Sweat",30,"LBLWB",66,66,0
+"Calvo, Francisco","Chicago","Francisco","Calvo","Francisco Calvo",29,"CB",70,70,0
+"Collier, Elliot","Chicago","Elliot","Collier","Elliot Collier",26,"RMCMST",61,61,0
+"Kappelhof, Johan","Chicago","Johan","Kappelhof","Johan Kappelhof",31,"CBRB",68,68,0
+"Kronholm, Kenneth","Chicago","Kenneth","Kronholm","Kenneth Kronholm",36,"GK",67,67,0
+"Shuttleworth, Bobby","Chicago","Bobby","Shuttleworth","Bobby Shuttleworth",34,"GK",66,66,0
+"Castillo, Edgar","Cincinnati","Edgar","Castillo","Edgar Castillo",35,"LBLWB",65,65,0
+"Mokotjo, Kamohelo","Cincinnati","Kamohelo","Mokotjo","Kamohelo Mokotjo",30,"CMCDM",67,67,0
+"Valot, Florian","Cincinnati","Florian","Valot","Florian Valot",28,"RMCAM",66,66,0
+"Vermeer, Kenneth","Cincinnati","Kenneth","Vermeer","Kenneth Vermeer",35,"GK",68,68,0
+"Badji, Dominique","Colorado","Dominique","Badji","Dominique Badji",29,"STLM",66,66,0
+"Beitashour, Steven","Colorado","Steven","Beitashour","Steven Beitashour",34,"RB",68,68,0
+"Irwin, Clint","Colorado","Clint","Irwin","Clint Irwin",32,"GK",64,64,0
+"Mezquida, Nicolas","Colorado","Nicolas","Mezquida","Nicolas Mezquida",29,"CAMST",64,64,0
+"Moor, Drew","Colorado","Drew","Moor","Drew Moor",37,"CB",65,65,0
+"Rubio, Diego","Colorado","Diego","Rubio","Diego Rubio",28,"STCAM",70,70,0
+"Warner, Collen","Colorado","Collen","Warner","Collen Warner",33,"CDMCM",64,64,0
+"Afful, Harrison","Columbus","Harrison","Afful","Harrison Afful",35,"RB",68,68,0
+"Bush, Evan","Columbus","Evan","Bush","Evan Bush",35,"GK",66,66,0
+"Francis, Waylon","Columbus","Waylon","Francis","Waylon Francis",31,"LB",66,66,0
+"Hurtado, Erik","Columbus","Erik","Hurtado","Erik Hurtado",31,"ST",62,62,0
+"Kitchen, Perry","Columbus","Perry","Kitchen","Perry Kitchen",29,"CDMCM",65,65,0
+"Molino, Kevin","Columbus","Kevin","Molino","Kevin Molino",31,"CAMLMRM",70,70,0
+"Williams, Joshua","Columbus","Joshua","Williams","Joshua Williams",33,"CB",68,68,0
+"Wormgoor, Vito","Columbus","Vito","Wormgoor","Vito Wormgoor",33,"CB",69,69,0
+"Acosta, Bryan","Dallas","Bryan","Acosta","Bryan Acosta",28,"CMCDMCAM",71,71,0
+"Ricaurte, Andres","Dallas","Andres","Ricaurte","Andres Ricaurte",30,"CAMCDMCM",72,72,0
+"Brillant, Frederic","DC United","Frederic","Brillant","Frederic Brillant",36,"CB",68,68,0
+"Mora, Joseph","DC United","Joseph","Mora","Joseph Mora",28,"LBLWBLM",68,68,0
+"Reyna, Yordy","DC United","Yordy","Reyna","Yordy Reyna",28,"STRW",68,68,0
+"Seitz, Chris","DC United","Chris","Seitz","Chris Seitz",34,"GK",63,63,0
+"Smith, Kimarni","DC United","Kimarni","Smith","Kimarni Smith",29,"RBLB",64,64,0
+"Corona, Joe","Houston","Joe","Corona","Joe Corona",31,"CDMCM",69,69,0
+"Figueroa, Maynor","Houston","Maynor","Figueroa","Maynor Figueroa",38,"CBLB",68,68,0
+"Lassiter, Ariel","Houston","Ariel","Lassiter","Ariel Lassiter",27,"RMST",62,62,0
+"Quintero, Darwin","Houston","Darwin","Quintero","Darwin Quintero",34,"CAMLWLM",71,71,0
+"Urruti, Maximiliano","Houston","Maximiliano","Urruti","Maximiliano Urruti",30,"ST",68,68,0
+"Dia, Amadou","Kansas City","Amadou","Dia","Amadou Dia",28,"LB",65,65,0
+"Martins, Luis","Kansas City","Luis","Martins","Luis Martins",29,"LB",68,68,0
+"Puncec, Roberto","Kansas City","Roberto","Puncec","Roberto Puncec",30,"CB",68,68,0
+"Harvey, Jordan","LAFC","Jordan","Harvey","Jordan Harvey",37,"LB",64,64,0
+"Chapman, Jay","Miami","Jay","Chapman","Jay Chapman",27,"CMRMCDM",62,62,0
+"Jones, Joevin","Miami","Joevin","Jones","Joevin Jones",30,"LBLM",68,68,0
+"Leerdam, Kelvin","Miami","Kelvin","Leerdam","Kelvin Leerdam",31,"RBLB",69,69,0
+"Matuidi, Blaise","Miami","Blaise","Matuidi","Blaise Matuidi",34,"CDMCM",78,78,0
+"Shawcross, Ryan","Miami","Ryan","Shawcross","Ryan Shawcross",34,"CB",67,67,0
+"Agudelo, Juan","Minnesota","Juan","Agudelo","Juan Agudelo",29,"STRMLM",66,66,0
+"Alonso, Osvaldo","Minnesota","Osvaldo","Alonso","Osvaldo Alonso",36,"CDMCM",72,72,0
+"Finlay, Ethan","Minnesota","Ethan","Finlay","Ethan Finlay",31,"RM",68,68,0
+"Hansen, Niko","Minnesota","Niko","Hansen","Niko Hansen",27,"RM",65,65,0
+"Kallman, Brent","Minnesota","Brent","Kallman","Brent Kallman",31,"CB",64,64,0
+"Raitala, Jukka","Minnesota","Jukka","Raitala","Jukka Raitala",33,"CBLBRB",68,68,0
+"Camacho, Rudy","Montreal","Rudy","Camacho","Rudy Camacho",30,"CB",69,69,0
+"Johnsen, Bjorn","Montreal","Bjorn","Johnsen","Bjorn Johnsen",30,"ST",66,66,0
+"Struna, Aljaz","Montreal","Aljaz","Struna","Aljaz Struna",31,"CB",68,68,0
+"Wanyama, Victor","Montreal","Victor","Wanyama","Victor Wanyama",30,"CDMCM",75,75,0
+"Boateng, Emmanuel","New England","Emmanuel","Boateng","Emmanuel Boateng",27,"LMRM",65,65,0
+"Caldwell, Scott","New England","Scott","Caldwell","Scott Caldwell",30,"CDMCM",63,63,0
+"Knighton, Brad","New England","Brad","Knighton","Brad Knighton",36,"GK",65,65,0
+"Mafla, Christian","New England","Christian","Mafla","Christian Mafla",28,"LBCB",67,67,0
+"Traustason, Arnor","New England","Arnor","Traustason","Arnor Traustason",28,"LMCM",70,70,0
+"Moralez, Maximiliano","NYCFC","Maximiliano","Moralez","Maximiliano Moralez",34,"CAMCM",75,75,0
+"Rocha, Tony","NYCFC","Tony","Rocha","Tony Rocha",28,"CMLBCDM",63,63,0
+"Tinnerholm, Anton","NYCFC","Anton","Tinnerholm","Anton Tinnerholm",30,"RBRWB",73,73,0
+"Bendik, Joseph","Philadelphia","Joseph","Bendik","Joseph Bendik",32,"GK",64,64,0
+"Burke, Cory","Philadelphia","Cory","Burke","Cory Burke",29,"ST",68,68,0
+"Collin, Aurelien","Philadelphia","Aurelien","Collin","Aurelien Collin",35,"CB",66,66,0
+"Attinella, Jeff","Portland","Jeff","Attinella","Jeff Attinella",33,"GK",67,67,0
+"Clark, Steven","Portland","Steven","Clark","Steven Clark",35,"GK",72,72,0
+"Fochive, George","Portland","George","Fochive","George Fochive",29,"CDMCM",65,65,0
+"Jome, Ismaila","Portland","Ismaila","Jome","Ismaila Jome",27,"LBLM",65,65,0
+"Mabiala, Larrys","Portland","Larrys","Mabiala","Larrys Mabiala",34,"CB",71,71,0
+"Polo, Andy","Portland","Andy","Polo","Andy Polo",27,"RMCM",68,68,0
+"Valeri, Diego","Portland","Diego","Valeri","Diego Valeri",35,"CAMST",76,76,0
+"Meram, Justin","Real Salt Lake","Justin","Meram","Justin Meram",33,"LM",68,68,0
+"Morgan, Ashtone","Real Salt Lake","Ashtone","Morgan","Ashtone Morgan",30,"LBLWB",62,62,0
+"Portillo, Justin","Real Salt Lake","Justin","Portillo","Justin Portillo",29,"CDM",61,61,0
+"Toia, Donny","Real Salt Lake","Donny","Toia","Donny Toia",29,"LB",68,68,0
+"Benezet, Nicolas","Seattle","Nicolas","Benezet","Nicolas Benezet",30,"LMCAM",71,71,0
+"Bruin, Will","Seattle","Will","Bruin","Will Bruin",32,"ST",68,68,0
+"Montero, Fredy","Seattle","Fredy","Montero","Fredy Montero",34,"STCFLW",72,72,0
+"Rowe, Kelyn","Seattle","Kelyn","Rowe","Kelyn Rowe",30,"CMRWB",65,65,0
+"DeLeon, Nick","Toronto","Nick","DeLeon","Nick DeLeon",31,"RMLM",64,64,0
+"Dwyer, Dom","Toronto","Dom","Dwyer","Dom Dwyer",31,"ST",64,64,0
+"Endoh, Tsubasa","Toronto","Tsubasa","Endoh","Tsubasa Endoh",28,"RMLM",64,64,0
+"Gonzalez, Omar","Toronto","Omar","Gonzalez","Omar Gonzalez",33,"CB",68,68,0
+"Lawrence, Kemar","Toronto","Kemar","Lawrence","Kemar Lawrence",29,"LB",71,71,0
+"Mullins, Patrick","Toronto","Patrick","Mullins","Patrick Mullins",29,"ST",62,62,0
+"Gaspar, Bruno","Vancouver","Bruno","Gaspar","Bruno Gaspar",28,"RBRWB",69,69,0
+"Jungwirth, Florian","Vancouver","Florian","Jungwirth","Florian Jungwirth",32,"CBCDM",66,66,0
+"Newton, Evan","Vancouver","Evan","Newton","Evan Newton",33,"GK",61,61,0
+"Ricketts, Tosaint","Vancouver","Tosaint","Ricketts","Tosaint Ricketts",34,"ST",61,61,0
+"Rose, Andy","Vancouver","Andy","Rose","Andy Rose",31,"CBCDM",66,66,0
+"Teibert, Russell","Vancouver","Russell","Teibert","Russell Teibert",28,"CMCDMLM",66,66,0
+"De John, Alex","Atlanta","Alex","De John","Alex De John",NA,NA,NA,NA,NA
+"Hernandez, Ronald","Atlanta","Ronald","Hernandez","Ronald Hernandez",NA,NA,NA,NA,NA
+"Lopez, Erik","Atlanta","Erik","Lopez","Erik Lopez",NA,NA,NA,NA,NA
+"Sejdic, Amar","Atlanta","Amar","Sejdic","Amar Sejdic",NA,NA,NA,NA,NA
+"Torres, Erick","Atlanta","Erick","Torres","Erick Torres",NA,NA,NA,NA,NA
+"Gaines, McKinze","Austin","McKinze","Gaines","McKinze Gaines",NA,NA,NA,NA,NA
+"Scott, Brady","Austin","Brady","Scott","Brady Scott",NA,NA,NA,NA,NA
+"Beric, Robert","Chicago","Robert","Beric","Robert Beric",NA,NA,NA,NA,NA
+"Medran, Alvaro","Chicago","Alvaro","Medran","Alvaro Medran",NA,NA,NA,NA,NA
+"Stojanovic, Luka","Chicago","Luka","Stojanovic","Luka Stojanovic",NA,NA,NA,NA,NA
+"Duvall, Chris","Cincinnati","Chris","Duvall","Chris Duvall",NA,NA,NA,NA,NA
+"Fjeldberg, Jonas","Cincinnati","Jonas","Fjeldberg","Jonas Fjeldberg",NA,NA,NA,NA,NA
+"Gyau, Joseph-Claude","Cincinnati","Joseph-Claude","Gyau","Joseph-Claude Gyau",NA,NA,NA,NA,NA
+"Kubo, Yuya","Cincinnati","Yuya","Kubo","Yuya Kubo",NA,NA,NA,NA,NA
+"Lundt, Ben","Cincinnati","Ben","Lundt","Ben Lundt",NA,NA,NA,NA,NA
+"Tyton, Przemyslaw","Cincinnati","Przemyslaw","Tyton","Przemyslaw Tyton",NA,NA,NA,NA,NA
+"van der Werff, Maikel","Cincinnati","Maikel","van der Werff","Maikel van der Werff",NA,NA,NA,NA,NA
+"Namli, Younes","Colorado","Younes","Namli","Younes Namli",NA,NA,NA,NA,NA
+"Rawls, Andre","Colorado","Andre","Rawls","Andre Rawls",NA,NA,NA,NA,NA
+"Abdul-Salaam, Saad","Columbus","Saad","Abdul-Salaam","Saad Abdul-Salaam",NA,NA,NA,NA,NA
+"Wright-Phillips, Bradley","Columbus","Bradley","Wright-Phillips","Bradley Wright-Phillips",NA,NA,NA,NA,NA
+"Bressan","Dallas","Bressan","","Bressan ",NA,NA,NA,NA,NA
+"Sergio Gomes, Caiser","Dallas","Caiser","Sergio Gomes","Caiser Sergio Gomes",NA,NA,NA,NA,NA
+"Megiolaro, Phelipe","Dallas","Phelipe","Megiolaro","Phelipe Megiolaro",NA,NA,NA,NA,NA
+"Zobeck, Kyle","Dallas","Kyle","Zobeck","Kyle Zobeck",NA,NA,NA,NA,NA
+"Abila, Ramon","DC United","Ramon","Abila","Ramon Abila",NA,NA,NA,NA,NA
+"Asad, Yamil","DC United","Yamil","Asad","Yamil Asad",NA,NA,NA,NA,NA
+"Bolivar, Jovanny","DC United","Jovanny","Bolivar","Jovanny Bolivar",NA,NA,NA,NA,NA
+"Martins, Felipe","DC United","Felipe","Martins","Felipe Martins",NA,NA,NA,NA,NA
+"Odoi-Atsem, Chris","DC United","Chris","Odoi-Atsem","Chris Odoi-Atsem",NA,NA,NA,NA,NA
+"Sorga, Erik","DC United","Erik","Sorga","Erik Sorga",NA,NA,NA,NA,NA
+"Bizama, Jose","Houston","Jose","Bizama","Jose Bizama",NA,NA,NA,NA,NA
+"Ceren, Darwin","Houston","Darwin","Ceren","Darwin Ceren",NA,NA,NA,NA,NA
+"Garcia, Oscar","Houston","Oscar","Garcia","Oscar Garcia",NA,NA,NA,NA,NA
+"Hoffmann, Ian","Houston","Ian","Hoffmann","Ian Hoffmann",NA,NA,NA,NA,NA
+"Maric, Marko","Houston","Marko","Maric","Marko Maric",NA,NA,NA,NA,NA
+"Sanchez, Ilie","Kansas City","Ilie","Sanchez","Ilie Sanchez",NA,NA,NA,NA,NA
+"Blackman, Jamal","LAFC","Jamal","Blackman","Jamal Blackman",NA,NA,NA,NA,NA
+"Ngalina, Michee","LAFC","Michee","Ngalina","Michee Ngalina",NA,NA,NA,NA,NA
+"Rossi, Diego","LAFC","Diego","Rossi","Diego Rossi",NA,NA,NA,NA,NA
+"Penn, Joshua","Miami","Joshua","Penn","Joshua Penn",NA,NA,NA,NA,NA
+"Seagrist, Patrick","Miami","Patrick","Seagrist","Patrick Seagrist",NA,NA,NA,NA,NA
+"Shea, Dane","Miami","Dane","Shea","Dane Shea",NA,NA,NA,NA,NA
+"Adi, Fanendo","Minnesota","Fanendo","Adi","Fanendo Adi",NA,NA,NA,NA,NA
+"Billingsley, Noah","Minnesota","Noah","Billingsley","Noah Billingsley",NA,NA,NA,NA,NA
+"Chacon, Thomas","Minnesota","Thomas","Chacon","Thomas Chacon",NA,NA,NA,NA,NA
+"Gregus, Jan","Minnesota","Jan","Gregus","Jan Gregus",NA,NA,NA,NA,NA
+"Kibunguchy, Nabi","Minnesota","Nabi","Kibunguchy","Nabi Kibunguchy",NA,NA,NA,NA,NA
+"Metanire, Romain","Minnesota","Romain","Metanire","Romain Metanire",NA,NA,NA,NA,NA
+"Montgomery, Callum","Minnesota","Callum","Montgomery","Callum Montgomery",NA,NA,NA,NA,NA
+"Zendejas, Adrian","Minnesota","Adrian","Zendejas","Adrian Zendejas",NA,NA,NA,NA,NA
+"Kone, Ismael","Montreal","Ismael","Kone","Ismael Kone",NA,NA,NA,NA,NA
+"DeLaGarza, A.J.","New England","A.J.","DeLaGarza","A.J. DeLaGarza",NA,NA,NA,NA,NA
+"Edwards Jr., Earl","New England","Earl","Edwards Jr.","Earl Edwards Jr.",NA,NA,NA,NA,NA
+"Mitrita, Alexandru","NYCFC","Alexandru","Mitrita","Alexandru Mitrita",NA,NA,NA,NA,NA
+"Tajouri-Shradi, Ismael","NYCFC","Ismael","Tajouri-Shradi","Ismael Tajouri-Shradi",NA,NA,NA,NA,NA
+"Thorarinsson, Gudmundur","NYCFC","Gudmundur","Thorarinsson","Gudmundur Thorarinsson",NA,NA,NA,NA,NA
+"Davo, Matheus","Philadelphia","Matheus","Davo","Matheus Davo",NA,NA,NA,NA,NA
+"Bueno, Jesus","Philadelphia","Jesus","Bueno","Jesus Bueno",NA,NA,NA,NA,NA
+"Ilsinho","Philadelphia","Ilsinho","","Ilsinho ",NA,NA,NA,NA,NA
+"Oravec, Matej","Philadelphia","Matej","Oravec","Matej Oravec",NA,NA,NA,NA,NA
+"Portella, Gino","Philadelphia","Gino","Portella","Gino Portella",NA,NA,NA,NA,NA
+"Gonzalez, Jorge","Portland","Jorge","Gonzalez","Jorge Gonzalez",NA,NA,NA,NA,NA
+"Ivacic, Aljaz","Portland","Aljaz","Ivacic","Aljaz Ivacic",NA,NA,NA,NA,NA
+"McGraw, Zac","Portland","Zac","McGraw","Zac McGraw",NA,NA,NA,NA,NA
+"Van Rankin, Josecarlos","Portland","Josecarlos","Van Rankin","Josecarlos Van Rankin",NA,NA,NA,NA,NA
+"Zambrano, Renzo","Portland","Renzo","Zambrano","Renzo Zambrano",NA,NA,NA,NA,NA
+"Luiz, Everton","Real Salt Lake","Everton","Luiz","Everton Luiz",NA,NA,NA,NA,NA
+"Martinez, Douglas","Real Salt Lake","Douglas","Martinez","Douglas Martinez",NA,NA,NA,NA,NA
+"Ramirez, Jeizon","Real Salt Lake","Jeizon","Ramirez","Jeizon Ramirez",NA,NA,NA,NA,NA
+"O'Neill, Shane","Seattle","Shane","O'Neill","Shane O'Neill",NA,NA,NA,NA,NA
+"Zavaleta, Eriq","Toronto","Eriq","Zavaleta","Eriq Zavaleta",NA,NA,NA,NA,NA
+"Cornelius, Derek","Vancouver","Derek","Cornelius","Derek Cornelius",NA,NA,NA,NA,NA
+"Egbo, David","Vancouver","David","Egbo","David Egbo",NA,NA,NA,NA,NA
+"Khmiri, Jasser","Vancouver","Jasser","Khmiri","Jasser Khmiri",NA,NA,NA,NA,NA
